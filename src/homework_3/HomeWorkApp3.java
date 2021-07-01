@@ -14,7 +14,7 @@ public class HomeWorkApp3 {
             } else {
                 arr[i] = 0;
             }
-        //    System.out.print(arr[i] + " ");
+            //    System.out.print(arr[i] + " ");
         }
 
     }
@@ -26,7 +26,7 @@ public class HomeWorkApp3 {
         for (int i = 0; i < arr2.length; i++) {
             number++;
             arr2[i] = number;
-         //   System.out.println(arr2[i]);
+            //   System.out.println(arr2[i]);
         }
     }
 
@@ -37,7 +37,7 @@ public class HomeWorkApp3 {
             if (arr3[i] < 6) {
                 arr3[i] = arr3[i] * 2;
             }
-          //  System.out.print(arr3[i] + " ");
+            //  System.out.print(arr3[i] + " ");
         }
     }
 
@@ -75,11 +75,10 @@ public class HomeWorkApp3 {
         System.out.println("max = " + max);
     }
 
-    }
-  //  public static void shiftarray(int arrshift[], int n){
-    //    for (int i = 0; i < n; i++) {
-      //      arrshift[]
+}
 
-      //  }
+
+
+
 
 
